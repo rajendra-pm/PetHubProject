@@ -1,0 +1,14 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Servers
+Servers/
+
+# Build
+target/
+build/
+
+# OS
+.DS_Store
